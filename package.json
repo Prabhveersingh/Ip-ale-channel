@@ -1,0 +1,14 @@
+{
+  "name": "m3u8-proxy",
+  "version": "1.0.0",
+  "description": "CORS and HTTP to HTTPS Proxy for IPTV",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.6.0",
+    "cors": "^2.8.5"
+  }
+}
